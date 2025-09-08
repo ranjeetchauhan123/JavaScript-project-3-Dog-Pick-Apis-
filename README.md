@@ -24,4 +24,4 @@ Built using **HTML, CSS, and JavaScript**.
 ## 📂 Project Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/USERNAME/dog-picker.git
+   git clone https://github.com/ranjeetchauhan123/dog-pic-apis.git
